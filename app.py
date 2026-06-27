@@ -140,5 +140,5 @@ with col3:
 
 st.caption(
     "Formula uses the Parker spiral length from the solar surface, "
-    "with rS = 695700 km."
+    "with r$_\odot$ = 695700 km."
 )
